@@ -1,0 +1,8 @@
+{
+  "name": "Personal Home Page",
+  "description": "Loads a new tab with working url bar",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": { "newtab": "override.html" },
+  "manifest_version": 2
+}
